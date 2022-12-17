@@ -4,6 +4,8 @@
 
 https://www.youtube.com/watch?v=ugCN_gynFYw
 
+Continue on min 27
+
 Landing page for a fictional company using the following tech:
 
 - React
