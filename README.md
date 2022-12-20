@@ -4,7 +4,7 @@
 
 https://www.youtube.com/watch?v=ugCN_gynFYw
 
-Continue on min 27
+Continue on min 41
 
 Landing page for a fictional company using the following tech:
 
